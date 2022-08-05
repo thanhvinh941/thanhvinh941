@@ -16,7 +16,7 @@
 
 
 <br>
-## **languages and tools:**  
+## languages and tools:  
 <br>
 <p  align="center">
   <kbd>
