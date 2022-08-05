@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=80&color=BDF7EB&center=true&vCenter=true&width=1000&height=120&lines=Well+come+to+my+profile!;Hi+There!+I'm+Thanh+Vinh+%3C3+%3C3+%3C3;Software+Engineer+Student+;Java+Developer" alt="Typing SVG" />
 </div>
 
-## <img src="https://i.pinimg.com/originals/89/6c/34/896c34e878cf76206760e79b4033880a.gif" width="50px"></img> About Me
+## <img src="https://i.pinimg.com/originals/eb/83/37/eb833767e61ee0685f105e2d18b9c966.gif" width="50px"></img> About Me
 
 - :credit_card: My full name is **Huỳnh Lê Thủy Tiên**    <img src="https://i.pinimg.com/originals/af/55/fa/af55fafdcac083449327d2d2cdf9ed1d.gif" width="380" align="right"/>
 - :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
