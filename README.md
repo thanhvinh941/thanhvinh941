@@ -17,10 +17,7 @@
 <br>
 <br>
 **languages and tools:**  
-
 <br>
-<br>
-
 <p  align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
