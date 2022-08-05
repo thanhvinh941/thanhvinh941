@@ -16,7 +16,7 @@
 
 **languages and tools:**  
 
-<p style="display: inline-block;" align="center">
+<p style="display: block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
