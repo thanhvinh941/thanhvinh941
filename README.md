@@ -16,7 +16,8 @@
 
 **languages and tools:**  
 
-<p style="display: block;" align="center">
+<p style="justify-content: space-around;
+    display: flex;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
     <br>
