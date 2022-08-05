@@ -1,7 +1,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/thanhvinh941?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=80&color=BDF7EB&center=true&vCenter=true&width=500&height=100&lines=Well+come+to+my+profile!;Hi+There!+I'm+Thanh+Vinh+%3C3+%3C3+%3C3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Square+Peg&size=80&color=BDF7EB&center=true&vCenter=true&width=1000&height=100&lines=Well+come+to+my+profile!;Hi+There!+I'm+Thanh+Vinh+%3C3+%3C3+%3C3" alt="Typing SVG" />
 </div>
 <!--
 **thanhvinh941/thanhvinh941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
