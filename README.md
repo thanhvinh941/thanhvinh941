@@ -5,7 +5,7 @@
 </div>
 
 
-- :credit_card: My full name is **Huỳnh Lê Thủy Tiên** <img src="https://i.pinimg.com/originals/af/55/fa/af55fafdcac083449327d2d2cdf9ed1d.gif" width="400" align="right"/>
+- :credit_card: My full name is **Huỳnh Lê Thủy Tiên**    <img src="https://i.pinimg.com/originals/af/55/fa/af55fafdcac083449327d2d2cdf9ed1d.gif" width="380" align="right"/>
 - :school: I'm currently 3rd year student at **FPT University - Ho Chi Minh City Campus**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
