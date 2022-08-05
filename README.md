@@ -14,10 +14,8 @@
 - 🤔: My interest lies in back-end web development and a little font-end development
 - ⚡: I like playing games, listening to music, watching movies
 
-<br>
-<br>
 **languages and tools:**  
-<br>
+
 <p  align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
