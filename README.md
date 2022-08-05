@@ -68,4 +68,4 @@
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=thanhvinh941&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhvinh941&theme=holi-theme">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhvinh941&theme=holi-theme" width="60%">
