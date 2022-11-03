@@ -6,7 +6,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"></img> About Me
 
-- :credit_card: My full name is **Trương Thanh Vinh**    <img src="https://i.pinimg.com/originals/af/55/fa/af55fafdcac083449327d2d2cdf9ed1d.gif" width="300" align="right"/>
+- :credit_card: My full name is **Trương Thanh Vinh**   
 - :school: I'm currently 4th year student at **Industrial University of Ho Chi Minh City**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Go Vap, Ho Chi Minh City, Viet Nam**
