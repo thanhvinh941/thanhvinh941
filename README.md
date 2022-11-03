@@ -10,8 +10,8 @@
 - :school: I'm currently 4th year student at **Industrial University of Ho Chi Minh City**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Go Vap, Ho Chi Minh City, Viet Nam**
-- 😃: I'm a newbie in coding, know Java and a little Javascript language
-- 🤔: My interest lies in back-end web development and a little font-end development
+- 😃: I have experience in Java especially Spring Boot, JPA / Hibernate, MySQL
+- 🤔: My strengths are Back-end web application development using spring boot and spring MVC
 - ⚡: I like playing games, listening to music, watching movies
 
 
