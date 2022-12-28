@@ -7,14 +7,10 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"></img> About Me
 
 - :credit_card: My full name is **Trương Thanh Vinh**   
-- :school: I'm currently 4th year student at **Industrial University of Ho Chi Minh City**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Go Vap, Ho Chi Minh City, Viet Nam**
 - 😃: I have experience in Java especially Spring Boot, JPA / Hibernate, MySQL
-- 🤔: My strengths are Back-end web application development using spring boot and spring MVC
-- ⚡: I like playing games, listening to music, watching movies
-
-
+- 
 <br>
 
 ### Languages and Tools:  
@@ -26,7 +22,6 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
   </kbd>
   <kbd>
     <kbd>Back-end</kbd>
@@ -50,16 +45,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png" />
-  </kbd>
 </p>
 
 -----
 Credits: [Thanh Vinh](https://github.com/thanhvinh941)
-
-Last Edited on: 08/05/2022
