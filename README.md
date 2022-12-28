@@ -47,7 +47,7 @@
   </kbd>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvinh941&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhvinh941&layout=compact)
 
 -----
 Credits: [Thanh Vinh](https://github.com/thanhvinh941)
