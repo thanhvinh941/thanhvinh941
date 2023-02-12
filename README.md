@@ -9,8 +9,7 @@
 - :credit_card: My full name is **Trương Thanh Vinh**   
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Go Vap, Ho Chi Minh City, Viet Nam**
-- 😃: I have experience in Java especially Spring Boot, JPA / Hibernate, MySQL
-- 
+- 😃: I have experience in Java especially Spring Boot, JPA/Hibernate, MySQL, Mybatis
 <br>
 
 ### Languages and Tools:  
