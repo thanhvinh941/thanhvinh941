@@ -1,8 +1,12 @@
 
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"></img> Hi there 
-My name's Vinh. I am an experienced Java developer with a strong grasp of Java 8, Spring MVC, Spring Boot, and MyBatis. I have worked extensively with Web Service APIs and have a solid understanding of microservices architecture and multi-threaded programming. Proficient in Unit Testing (JUnit 5), I prioritize code quality. I also have basic knowledge of front-end languages such as HTML, CSS, and JavaScript, including a familiarity with the Angular framework. I possess effective problem-solving skills and excel both as a team player and an independent worker. Committed to delivering high-quality solutions, I bring a versatile skill set to Java development. 
-
+    - 1.5 years of experience developing and maintaining web applications using Spring Boot, Java 11/8, and various other technologies.
+    - Strong understanding of Java core concepts, Spring MVC, Spring Boot, MyBatis, Spring Data JPA
+    - Have experience working with microservices architecture.
+    - Able to write Unit Tests using JUnit 5
+    - Familiar with front-end development using HTML/CSS/JQuery, and JavaScript/TypeScript (Angular)
+    - Effective problem solver and has the ability to work under high pressure both independently and as part of a team.
 ### Languages and Tools:  
  
 <br>
